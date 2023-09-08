@@ -5,30 +5,14 @@
 <div dir="rtl">
   
 ### اسم الطالب
-
+أسيل سعود الصيرفي
 
 ### اسم المشروع
-
+سلة المحتاج
 
 # شرح الفكرة
-المشكلة والحلول المطروحة إن وجدت
-
-
+ابلكيشن يسهل على الناس التبرع يتضمن اقسام متنوعه ومرتبه وتدخل الناس لتعرض المنتجات المراد التبرع بها
 # الأعمال المستقبلية
 
 
 </div>
-
-> Fill out project information in English ⬇️
-### Student Name
-
-
-### Project Name
-
-# Idea
-Problem and solutions if found 
-
-
-# Future Work 
-
-
